@@ -50,6 +50,12 @@ body {
   padding: 15px 20px;
   font-size: 1.7vw;
   text-decoration: none;
+  transition: 0.3s;
+}
+
+.apply_button:hover {
+  background-color: #005bbb;
+  color: #ffd400;
 }
 
 .slava {
